@@ -10,6 +10,7 @@ GST-Reconciliation-Project/
 
 
 Project Overview
+
 1.Performed GST reconciliation using GSTR-1 source data.
 2.Extracted and validated taxable values and GST components.
 3.Analyzed invoice-level transactions using Excel.
